@@ -79,3 +79,35 @@ The dashboard provides a quick overview of the major performance indicators and 
 - Use customer purchase patterns to create targeted marketing campaigns.
 - Monitor customer segments regularly to identify changes in purchasing behavior.
 - Use the Excel dashboard to track important business KPIs and support data-driven decision-making.
+
+## 📁 Project Structure
+
+```text
+customer-purchase-behavior-excel/
+│
+├── README.md
+├── customer_purchase_analysis.xlsx
+│
+└── screenshots/
+    └── customer_purchase_dashboard.png
+
+## 🎓 Skills Demonstrated
+- Data Cleaning
+- Excel Formulas
+- Pivot Tables
+- Pivot Charts
+- Data Analysis
+- Data Visualization
+- Dashboard Creation
+- Customer Segmentation
+- Business Insights
+- Business Recommendations
+## 🎯 Learning Outcome
+
+This project strengthened my ability to use Microsoft Excel for business-oriented data analysis and demonstrated how raw customer data can be transformed into actionable insights and recommendations.
+
+## 👩‍💻 Author
+
+Geethika Dasari
+
+Aspiring Business Analyst / Data Analyst

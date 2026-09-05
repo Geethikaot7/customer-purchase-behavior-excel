@@ -82,14 +82,11 @@ The dashboard provides a quick overview of the major performance indicators and 
 
 ## 📁 Project Structure
 
-```text
-customer-purchase-behavior-excel/
-│
-├── README.md
-├── customer_purchase_analysis.xlsx
-│
-└── screenshots/
-    └── customer_purchase_dashboard.png
+-customer-purchase-behavior-excel/
+    - README.md
+    - customer_purchase_analysis.xlsx
+    - screenshots/
+        -customer_purchase_dashboard.png
 
 ## 🎓 Skills Demonstrated
 - Data Cleaning
